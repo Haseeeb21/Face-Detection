@@ -2,6 +2,14 @@
 Face Detection, Face + Blurring, Face + Eye Detection, and Saving. Using haarcascade xml files.
 
 
+## About the files
+
+- **Face Detection** - face_detection.ipynb
+- **Face + Blurring** - blur_face.ipynb
+- **Face + Eye Detection** - face_and_eye.ipynb
+- **Saving the Faces** - save_faces.ipynb
+
+
 ## Other xml files
 
 There are also other Haarcascade Frontalface files such as,
